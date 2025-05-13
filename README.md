@@ -1,4 +1,4 @@
-# Coronavirus Outbreak Prediction Using SVM and ML
+# Coronavirus Outbreak Prediction Using ML
 
 ## Overview
 
